@@ -82,7 +82,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### PROGRAM 
  Developed by: Vinush.cv
+ 
  Reg no: 212222230176	
+ 
  Dept: AIDS
 
  
