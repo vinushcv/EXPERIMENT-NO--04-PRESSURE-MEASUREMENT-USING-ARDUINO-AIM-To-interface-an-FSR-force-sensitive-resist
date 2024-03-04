@@ -158,4 +158,6 @@ EX:           μ = (1+) / 5 = 4.6
 
 
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULT
+
+Arduino uno is interfaced with FSR and output values are indicated on a graph.
