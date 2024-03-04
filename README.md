@@ -60,6 +60,11 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### FIGURE-03 CIRCUIT DIAGRAM
 
+![image](https://github.com/vinushcv/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/113975318/121ebeb7-77ae-4d9a-924e-d165ecddc80a)
+
+### SCHEMATIC DIAGRAM
+
+![image](https://github.com/vinushcv/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/113975318/1d6c76ad-753b-40a8-bd06-13229cc6b213)
 
 
 ### PROCEDURE:
@@ -78,8 +83,10 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 ### PROGRAM 
  Developed by: Vinush.cv
  Reg no: 212222230176	
- dept: AiDs
+ Dept: AIDS
+
  
+```c++ 
 int fsr;
 int LED=7;
 void setup()
@@ -108,11 +115,15 @@ void loop()
   }
 }
 
-
+```
 
 
 ### TABLE -02 standard deviation table 
 ![image](https://github.com/vinushcv/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/113975318/d5ee242f-3e11-4bb9-b4f7-be79deacef26)
+
+### Graph
+
+![image](https://github.com/vinushcv/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/113975318/ce4a6c7d-6804-422d-b040-0cb68f71b231)
 
 
 ### Population Standard Deviation
